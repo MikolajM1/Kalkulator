@@ -1,4 +1,4 @@
 package com.example.kalkulator;
 
-public class Data {
+public class Car {
 }
